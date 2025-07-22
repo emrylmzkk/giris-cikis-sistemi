@@ -1,0 +1,12 @@
+F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\bin\Debug\net8.0\otomasyon.data.deps.json
+F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\bin\Debug\net8.0\otomasyon.data.dll
+F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\bin\Debug\net8.0\otomasyon.data.pdb
+F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.csproj.AssemblyReference.cache
+F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.GeneratedMSBuildEditorConfig.editorconfig
+F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.AssemblyInfoInputs.cache
+F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.AssemblyInfo.cs
+F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.csproj.CoreCompileInputs.cache
+F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.dll
+F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\refint\otomasyon.data.dll
+F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.pdb
+F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\ref\otomasyon.data.dll
