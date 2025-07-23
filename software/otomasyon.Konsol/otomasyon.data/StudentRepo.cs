@@ -80,18 +80,18 @@ namespace Otomasyon.Data
         }
 
 
-        public IEnumerable<Student> GetLogByName(string searchTerm)
+        public IEnumerable<Student> GetLogByName()
         {
 
             using (var connection = new SqliteConnection(Database.GetConnectionString()))
             {
 
 
-                string sql = @"SELECT Id, Name, Surname FROM Students WHERE (Name || ' ' || Surname) LIKE UPPER(@SearchTerm) ORDER BY Name";
+                string sql = @"SELECT Id, Name, Surname FROM Students";
 
 
 
-                return connection.Query<Student>(sql, new { SearchTerm = $"%{searchTerm}%" });
+                return connection.Query<Student>(sql);
 
 
             }

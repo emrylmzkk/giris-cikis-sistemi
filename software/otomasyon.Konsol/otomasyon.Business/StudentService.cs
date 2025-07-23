@@ -60,10 +60,21 @@ namespace Otomasyon.Business
         }
 
 
-        public IEnumerable<Student> FindStudentByName (string name)
+        public IEnumerable<Student> FindStudentByName(string name)
         {
 
-            return _studentRepo.GetLogByName(name);
+            var allStudents = _studentRepo.GetLogByName();
+
+            if (string.IsNullOrWhiteSpace(name))
+            {
+                return allStudents;
+
+            }
+
+            return allStudents.Where(s => s.FullName.Contains(name, StringComparison.CurrentCultureIgnoreCase));
+
+
+
         }
 
         
