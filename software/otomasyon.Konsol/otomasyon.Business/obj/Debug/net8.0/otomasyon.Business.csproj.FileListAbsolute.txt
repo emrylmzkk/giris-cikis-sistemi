@@ -8,6 +8,7 @@ F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.Business\obj\Debug
 F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.Business\obj\Debug\net8.0\otomasyon.Business.AssemblyInfoInputs.cache
 F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.Business\obj\Debug\net8.0\otomasyon.Business.AssemblyInfo.cs
 F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.Business\obj\Debug\net8.0\otomasyon.Business.csproj.CoreCompileInputs.cache
+F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.Business\obj\Debug\net8.0\otomasyon.Business.sourcelink.json
 F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.Business\obj\Debug\net8.0\otomasyo.285FB047.Up2Date
 F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.Business\obj\Debug\net8.0\otomasyon.Business.dll
 F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.Business\obj\Debug\net8.0\refint\otomasyon.Business.dll

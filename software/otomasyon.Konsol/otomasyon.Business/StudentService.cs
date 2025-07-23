@@ -59,6 +59,13 @@ namespace Otomasyon.Business
             return _studentRepo.GetInsideStudentCount();
         }
 
+
+        public IEnumerable<Student> FindStudentByName (string name)
+        {
+
+            return _studentRepo.GetLogByName(name);
+        }
+
         
 
 

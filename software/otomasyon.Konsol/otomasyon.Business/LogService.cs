@@ -32,6 +32,12 @@ namespace Otomasyon.Business
         }
 
 
+        public IEnumerable<Log> GetStudentSpecLog(int studentId)
+        {
+            return _logrepo.GetLogsByID(studentId);
+        }
+
+
     }
 
 

@@ -1,9 +1,11 @@
 ﻿using Otomasyon.Business;
 using Otomasyon.Data;
+using MaterialSkin;
+using MaterialSkin.Controls;
 
 namespace Otomasyon.UI
 {
-    public partial class frmOgrenciYonetim : Form
+    public partial class frmOgrenciYonetim : MaterialForm
     {
 
         private readonly StudentService _studentService;
@@ -14,7 +16,22 @@ namespace Otomasyon.UI
             InitializeComponent();
             _studentService = new StudentService();
 
-            
+            var materialSkinManager = MaterialSkinManager.Instance;
+            materialSkinManager.AddFormToManage(this);
+            materialSkinManager.Theme = MaterialSkinManager.Themes.DARK;
+
+
+            materialSkinManager.ColorScheme = new ColorScheme(
+                Primary.DeepPurple800,
+                Primary.DeepPurple900,
+                Primary.DeepPurple500,
+                Accent.Orange200,
+                TextShade.WHITE
+
+                );
+
+
+
 
         }
 
@@ -87,5 +104,49 @@ namespace Otomasyon.UI
             }
         }
 
+
+        public static event Action<string>? CardScannedForReg;
+
+
+        public void SetCardUID(string cardUID)
+        {
+
+            if (txtoEkleCardUID.InvokeRequired)
+            {
+                txtoEkleCardUID.Invoke(new Action(() => txtoEkleCardUID.Text = cardUID));
+
+            }
+            else
+            {
+                txtoEkleCardUID.Text = cardUID;
+            }
+
+
+        }
+
+
+        public static bool RaiseCardScannedEvent(string cardUID)
+        {
+            if (CardScannedForReg != null)
+            {
+                CardScannedForReg.Invoke(cardUID);
+                return true;
+
+            }
+
+            return false;
+        }
+
+
+
+        private void frmOgrenciYonetim_Load(object sender, EventArgs e)
+        {
+            CardScannedForReg += this.SetCardUID;
+        }
+
+        private void frmOgrenciYonetim_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            CardScannedForReg -= this.SetCardUID;
+        }
     }
 }

@@ -33,7 +33,23 @@ namespace Otomasyon.Data
             }
         }
 
+        public IEnumerable<Log> GetLogsByID(int studentId)
+        {
 
+            using (var connection = new SqliteConnection(Database.GetConnectionString()))
+            {
+
+                string sql = @"SELECT LogTime, LogType FROM Logs WHERE StudentId = @StudentId ORDER BY Id DESC";
+
+
+                return connection.Query<Log>(sql, new {StudentId = studentId });
+                
+
+
+            }
+
+
+        }
 
     }
 

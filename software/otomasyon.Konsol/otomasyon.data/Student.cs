@@ -12,7 +12,13 @@
         public string? RegistrationDate { get; set; }
 
 
+        public string FullName => $"{Name} {Surname}";
+
+
 
     }
+
+    
+
 
 }

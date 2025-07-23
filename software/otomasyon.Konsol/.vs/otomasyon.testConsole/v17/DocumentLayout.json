@@ -3,76 +3,32 @@
   "WorkspaceRootPath": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\otomasyon.data\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|solutionrelative:otomasyon.data\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C87A464-3AEF-4568-93C2-383B6C086C5E}|otomasyon.Business\\otomasyon.Business.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\otomasyon.business\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C87A464-3AEF-4568-93C2-383B6C086C5E}|otomasyon.Business\\otomasyon.Business.csproj|solutionrelative:otomasyon.business\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\otomasyon.data\\logrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|solutionrelative:otomasyon.data\\logrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C87A464-3AEF-4568-93C2-383B6C086C5E}|otomasyon.Business\\otomasyon.Business.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\otomasyon.business\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C87A464-3AEF-4568-93C2-383B6C086C5E}|otomasyon.Business\\otomasyon.Business.csproj|solutionrelative:otomasyon.business\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\otomasyon.data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|solutionrelative:otomasyon.data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\otomasyon.data\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|solutionrelative:otomasyon.data\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\otomasyon.data\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|solutionrelative:otomasyon.data\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\otomasyon.data\\logrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|solutionrelative:otomasyon.data\\logrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\otomasyon.data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|solutionrelative:otomasyon.data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\frmogrenciyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmogrenciyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\frmogrenciyonetim.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmogrenciyonetim.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\frmogrenciyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmogrenciyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,237 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "otomasyon.data\\StudentRepo.cs",
+              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\StudentRepo.cs",
+              "RelativeToolTip": "otomasyon.data\\StudentRepo.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T21:15:23.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\Student.cs",
+              "RelativeDocumentMoniker": "otomasyon.data\\Student.cs",
+              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\Student.cs",
+              "RelativeToolTip": "otomasyon.data\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T21:12:37.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogRepo.cs",
+              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\LogRepo.cs",
+              "RelativeDocumentMoniker": "otomasyon.data\\LogRepo.cs",
+              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\LogRepo.cs",
+              "RelativeToolTip": "otomasyon.data\\LogRepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T21:08:30.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "frmMain.cs",
               "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmMain.cs",
               "RelativeDocumentMoniker": "UI\\frmMain.cs",
               "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmMain.cs",
               "RelativeToolTip": "UI\\frmMain.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADABAAAAAAAAAAAAwF4BAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T01:29:02.462Z",
+              "WhenOpened": "2025-07-23T20:43:25.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "formLogin.cs [Tasar\u0131m]",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\formLogin.cs",
-              "RelativeDocumentMoniker": "UI\\formLogin.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\formLogin.cs [Tasar\u0131m]",
-              "RelativeToolTip": "UI\\formLogin.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T20:22:30.838Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "frmMain.cs [Tasar\u0131m]",
               "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmMain.cs",
               "RelativeDocumentMoniker": "UI\\frmMain.cs",
               "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmMain.cs [Tasar\u0131m]",
               "RelativeToolTip": "UI\\frmMain.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T16:12:08.511Z",
+              "WhenOpened": "2025-07-23T20:40:59.628Z",
               "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "securityhelper.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\securityhelper.cs",
-              "RelativeDocumentMoniker": "UI\\securityhelper.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\securityhelper.cs",
-              "RelativeToolTip": "UI\\securityhelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T17:52:45.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "formLogin.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\formLogin.cs",
-              "RelativeDocumentMoniker": "UI\\formLogin.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\formLogin.cs",
-              "RelativeToolTip": "UI\\formLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T20:15:35.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "app.config",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\app.config",
-              "RelativeDocumentMoniker": "UI\\app.config",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\app.config",
-              "RelativeToolTip": "UI\\app.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-07-22T17:51:19.191Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "formLogin.Designer.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\formLogin.Designer.cs",
-              "RelativeDocumentMoniker": "UI\\formLogin.Designer.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\formLogin.Designer.cs",
-              "RelativeToolTip": "UI\\formLogin.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Title": "frmReport.cs [Tasar\u0131m]",
+              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmReport.cs",
+              "RelativeDocumentMoniker": "UI\\frmReport.cs",
+              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmReport.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UI\\frmReport.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T20:17:03.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LogService.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.Business\\LogService.cs",
-              "RelativeDocumentMoniker": "otomasyon.Business\\LogService.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.Business\\LogService.cs",
-              "RelativeToolTip": "otomasyon.Business\\LogService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:49:06.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LogRepo.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\LogRepo.cs",
-              "RelativeDocumentMoniker": "otomasyon.data\\LogRepo.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\LogRepo.cs",
-              "RelativeToolTip": "otomasyon.data\\LogRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:27:19.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.Business\\StudentService.cs",
-              "RelativeDocumentMoniker": "otomasyon.Business\\StudentService.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.Business\\StudentService.cs",
-              "RelativeToolTip": "otomasyon.Business\\StudentService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T12:28:55.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmMain.Designer.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmMain.Designer.cs",
-              "RelativeDocumentMoniker": "UI\\frmMain.Designer.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmMain.Designer.cs",
-              "RelativeToolTip": "UI\\frmMain.Designer.cs",
-              "ViewState": "AgIAALUAAAAAAAAAAAAAANwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T12:59:26.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Student.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\Student.cs",
-              "RelativeDocumentMoniker": "otomasyon.data\\Student.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\Student.cs",
-              "RelativeToolTip": "otomasyon.data\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:46:31.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Log.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\Log.cs",
-              "RelativeDocumentMoniker": "otomasyon.data\\Log.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\Log.cs",
-              "RelativeToolTip": "otomasyon.data\\Log.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:22:20.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StudentRepo.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\StudentRepo.cs",
-              "RelativeDocumentMoniker": "otomasyon.data\\StudentRepo.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\StudentRepo.cs",
-              "RelativeToolTip": "otomasyon.data\\StudentRepo.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwDUAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T12:04:26.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Database.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\Database.cs",
-              "RelativeDocumentMoniker": "otomasyon.data\\Database.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\Database.cs",
-              "RelativeToolTip": "otomasyon.data\\Database.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T02:13:55.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "frmOgrenciYonetim.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmOgrenciYonetim.cs",
-              "RelativeDocumentMoniker": "UI\\frmOgrenciYonetim.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmOgrenciYonetim.cs",
-              "RelativeToolTip": "UI\\frmOgrenciYonetim.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA9wC4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T12:31:45.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "frmOgrenciYonetim.cs [Tasar\u0131m]",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmOgrenciYonetim.cs",
-              "RelativeDocumentMoniker": "UI\\frmOgrenciYonetim.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmOgrenciYonetim.cs [Tasar\u0131m]",
-              "RelativeToolTip": "UI\\frmOgrenciYonetim.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T13:02:37.41Z",
+              "WhenOpened": "2025-07-23T19:41:09.758Z",
               "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "frmOgrenciYonetim.Designer.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmOgrenciYonetim.Designer.cs",
-              "RelativeDocumentMoniker": "UI\\frmOgrenciYonetim.Designer.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmOgrenciYonetim.Designer.cs",
-              "RelativeToolTip": "UI\\frmOgrenciYonetim.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "frmReport.cs",
+              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmReport.cs",
+              "RelativeDocumentMoniker": "UI\\frmReport.cs",
+              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmReport.cs",
+              "RelativeToolTip": "UI\\frmReport.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T12:56:10.682Z",
+              "WhenOpened": "2025-07-23T19:33:26.09Z",
               "EditorCaption": ""
             }
           ]

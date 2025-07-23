@@ -4,6 +4,7 @@ using Otomasyon.Data;
 using System.Configuration;
 using MaterialSkin;
 using MaterialSkin.Controls;
+using Otomasyon.UI;
 
 
 
@@ -18,6 +19,22 @@ namespace Otomasyon.UI
         public frmMain()
         {
             InitializeComponent();
+
+
+            var materialSkinManager = MaterialSkinManager.Instance;
+            materialSkinManager.AddFormToManage(this);
+            materialSkinManager.Theme = MaterialSkinManager.Themes.DARK;
+
+
+            materialSkinManager.ColorScheme = new ColorScheme(
+                Primary.DeepPurple800,
+                Primary.DeepPurple900,
+                Primary.DeepPurple500,
+                Accent.Orange200,
+                TextShade.WHITE
+
+                );
+
 
 
             _studentService = new StudentService();
@@ -92,6 +109,12 @@ namespace Otomasyon.UI
 
 
                 string cardUID = gelenVeri;
+
+
+                if (frmOgrenciYonetim.RaiseCardScannedEvent(cardUID))
+                {
+                    return;
+                }
 
 
 
@@ -262,7 +285,7 @@ namespace Otomasyon.UI
             lblOgrenciAdSoyad.Text = "---";
             lblOgrenciNumara.Text = "---";
 
-            lblGirisCikisBilgi.Text = "Giriþ yapmadan Önce Lütfen Kartýnýzý Okutun...";
+            lblGirisCikisBilgi.Text = "Giriþ yapmadan Önce Lütfen Kartýnýzý Okutunuz...";
             lblGirisCikisBilgi.ForeColor = SystemColors.ControlText;
 
 
@@ -307,7 +330,35 @@ namespace Otomasyon.UI
 
         }
 
+        private void btnReport_Click(object sender, EventArgs e)
+        {
+            using (formLogin loginForm = new formLogin())
+            {
+                if (loginForm.ShowDialog() == DialogResult.OK)
+                {
+
+                    string inpPassword = loginForm.EnteredPassword;
+
+                    string correctPassword = ConfigurationManager.AppSettings["adminPassword"];
+
+                    string inpPasswordHash = SecurityHelper.ComputeSha256Hash(inpPassword);
+
+                    if (inpPasswordHash == correctPassword)
+                    {
+                        using (frmReport ogrenciYonetimForm = new frmReport())
+                        {
+                            ogrenciYonetimForm.ShowDialog();
+                        }
+                    }
+                    else
+                    {
+                        MessageBox.Show("Parola Yanlýþ", "Hata", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
 
 
+
+                }
+            }
+        }
     }
 }
