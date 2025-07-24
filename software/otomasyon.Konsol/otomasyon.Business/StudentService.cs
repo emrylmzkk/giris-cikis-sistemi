@@ -8,6 +8,7 @@ namespace Otomasyon.Business
         private readonly StudentRepo _studentRepo;
         private readonly LogService _logService;
 
+
         public StudentService()
         {
             _studentRepo = new StudentRepo();
@@ -76,6 +77,17 @@ namespace Otomasyon.Business
 
 
         }
+
+        public void DeleteStudentandLogs(int studentId)
+        {
+            _logService.DeleteStudentLogs(studentId);
+
+            _studentRepo.DeleteStudentById(studentId);
+        }
+
+
+
+
 
         
 

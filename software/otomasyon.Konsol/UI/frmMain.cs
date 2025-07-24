@@ -12,6 +12,9 @@ namespace Otomasyon.UI
 {
     public partial class frmMain : MaterialForm
     {
+
+
+        private bool _initializationSucceeded = false;
         private readonly SerialPort _serialPort;
         private readonly StudentService _studentService;
         private readonly LogService _logService;
@@ -76,15 +79,31 @@ namespace Otomasyon.UI
                 tsslOkuyucuDurum.Text = "Okuyucu: Baðlandý";
                 connectionCheckTimer.Start();
 
+                _initializationSucceeded = true;
+
+
             }
             catch (Exception ex)
             {
                 MessageBox.Show("Seri port açýlamadý. Lütfen Arduino baðlatnýlarýný kotnrol ediniz");
                 tsslOkuyucuDurum.Text = "Okuyucu (arduino) baðlantýsý baþarýsýz. Hata:" + ex.Message;
+
+                _initializationSucceeded = false;
+
             }
 
-            UpdateInsideCount();
-            UpdateLogView();
+            if (!_initializationSucceeded)
+            {
+                this.Close();
+            }
+            else
+            {
+                UpdateInsideCount();
+                UpdateLogView();
+            }
+
+
+                
 
 
         }
@@ -322,7 +341,7 @@ namespace Otomasyon.UI
 
 
                 this.Close();
-
+                
 
 
             }

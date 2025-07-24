@@ -100,6 +100,19 @@ namespace Otomasyon.Data
 
 
 
+        public void DeleteStudentById(int studentId)
+        {
+            using (var connection = new SqliteConnection(Database.GetConnectionString()))
+            {
+                string sql = "DELETE FROM Students WHERE Id = @Id";
+                connection.Execute(sql, new { Id = studentId });
+            }
+
+
+        }
+
+
+
 
     }
 }

@@ -51,6 +51,23 @@ namespace Otomasyon.Data
 
         }
 
+
+        public void DeleteLogsByStudentId(int studentId)
+        {
+
+            using (var connection = new SqliteConnection(Database.GetConnectionString()))
+            {
+
+                string sql = "DELETE FROM Logs WHERE StudentId = @StudentId";
+
+                connection.Execute(sql, new { StudentId = studentId });
+
+            }
+
+
+        }
+
+
     }
 
 

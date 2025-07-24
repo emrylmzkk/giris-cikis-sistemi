@@ -36,6 +36,7 @@
             searchLogDate = new ColumnHeader();
             searchLogTime = new ColumnHeader();
             searchLogProc = new ColumnHeader();
+            btnDeleteStudent = new MaterialSkin.Controls.MaterialButton();
             SuspendLayout();
             // 
             // txtStudentSearch
@@ -70,6 +71,7 @@
             // btnStudentSearch
             // 
             btnStudentSearch.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            btnStudentSearch.Cursor = Cursors.Hand;
             btnStudentSearch.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             btnStudentSearch.Depth = 0;
             btnStudentSearch.HighEmphasis = true;
@@ -106,6 +108,7 @@
             lvSearchNameResult.UseCompatibleStateImageBehavior = false;
             lvSearchNameResult.View = View.Details;
             lvSearchNameResult.ItemSelectionChanged += lvSearchNameResult_ItemSelectionChanged;
+            
             // 
             // reulstName
             // 
@@ -148,11 +151,34 @@
             searchLogProc.TextAlign = HorizontalAlignment.Right;
             searchLogProc.Width = 150;
             // 
+            // btnDeleteStudent
+            // 
+            btnDeleteStudent.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            btnDeleteStudent.Cursor = Cursors.Hand;
+            btnDeleteStudent.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
+            btnDeleteStudent.Depth = 0;
+            btnDeleteStudent.Enabled = false;
+            btnDeleteStudent.HighEmphasis = true;
+            btnDeleteStudent.Icon = null;
+            btnDeleteStudent.Location = new Point(82, 201);
+            btnDeleteStudent.Margin = new Padding(4, 6, 4, 6);
+            btnDeleteStudent.MouseState = MaterialSkin.MouseState.HOVER;
+            btnDeleteStudent.Name = "btnDeleteStudent";
+            btnDeleteStudent.NoAccentTextColor = Color.Empty;
+            btnDeleteStudent.Size = new Size(121, 36);
+            btnDeleteStudent.TabIndex = 4;
+            btnDeleteStudent.Text = "Öğrenciyi Sil";
+            btnDeleteStudent.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Outlined;
+            btnDeleteStudent.UseAccentColor = false;
+            btnDeleteStudent.UseVisualStyleBackColor = true;
+            btnDeleteStudent.Click += btnDeleteStudent_Click;
+            // 
             // frmReport
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(567, 442);
+            Controls.Add(btnDeleteStudent);
             Controls.Add(lvSearchLog);
             Controls.Add(lvSearchNameResult);
             Controls.Add(btnStudentSearch);
@@ -173,5 +199,6 @@
         private ColumnHeader searchLogDate;
         private ColumnHeader searchLogTime;
         private ColumnHeader searchLogProc;
+        private MaterialSkin.Controls.MaterialButton btnDeleteStudent;
     }
 }

@@ -38,6 +38,12 @@ namespace Otomasyon.Business
         }
 
 
+        public void DeleteStudentLogs (int studentId)
+        {
+            _logrepo.DeleteLogsByStudentId(studentId);
+        }
+
+
     }
 
 
