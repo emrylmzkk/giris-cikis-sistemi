@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "wiN4KPu/lmA=",
+  "dgSpecHash": "AmmwzTvnuIw=",
   "success": true,
-  "projectFilePath": "F:\\projeler\\rfıd_project\\software\\otomasyon.Konsol\\otomasyon.Business\\otomasyon.Business.csproj",
+  "projectFilePath": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\otomasyon.Business\\otomasyon.Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Emirhan\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
-    "C:\\Users\\Emirhan\\.nuget\\packages\\microsoft.data.sqlite\\9.0.7\\microsoft.data.sqlite.9.0.7.nupkg.sha512",
-    "C:\\Users\\Emirhan\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.7\\microsoft.data.sqlite.core.9.0.7.nupkg.sha512",
-    "C:\\Users\\Emirhan\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
-    "C:\\Users\\Emirhan\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
-    "C:\\Users\\Emirhan\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
-    "C:\\Users\\Emirhan\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
-    "C:\\Users\\Emirhan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "C:\\Users\\emirhan\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\emirhan\\.nuget\\packages\\microsoft.data.sqlite\\9.0.7\\microsoft.data.sqlite.9.0.7.nupkg.sha512",
+    "C:\\Users\\emirhan\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.7\\microsoft.data.sqlite.core.9.0.7.nupkg.sha512",
+    "C:\\Users\\emirhan\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\emirhan\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\emirhan\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\emirhan\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\emirhan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }

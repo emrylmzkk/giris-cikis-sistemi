@@ -41,6 +41,8 @@ namespace Otomasyon.UI
 
 
             _studentService = new StudentService();
+
+            //Aygýt yöneticisinden cihazý baðlý olduðu PORT ayarýný yapýnýz.
             _serialPort = new SerialPort("COM7", 9600);
             _logService = new LogService();
 

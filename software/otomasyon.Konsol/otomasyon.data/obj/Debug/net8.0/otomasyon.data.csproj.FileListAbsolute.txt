@@ -11,3 +11,16 @@ F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net
 F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\refint\otomasyon.data.dll
 F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.pdb
 F:\projeler\rfıd_project\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\ref\otomasyon.data.dll
+E:\projeler\rfid_css_project\giris-cikis-sistemi\software\otomasyon.Konsol\otomasyon.data\bin\Debug\net8.0\otomasyon.data.deps.json
+E:\projeler\rfid_css_project\giris-cikis-sistemi\software\otomasyon.Konsol\otomasyon.data\bin\Debug\net8.0\otomasyon.data.dll
+E:\projeler\rfid_css_project\giris-cikis-sistemi\software\otomasyon.Konsol\otomasyon.data\bin\Debug\net8.0\otomasyon.data.pdb
+E:\projeler\rfid_css_project\giris-cikis-sistemi\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.csproj.AssemblyReference.cache
+E:\projeler\rfid_css_project\giris-cikis-sistemi\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.GeneratedMSBuildEditorConfig.editorconfig
+E:\projeler\rfid_css_project\giris-cikis-sistemi\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.AssemblyInfoInputs.cache
+E:\projeler\rfid_css_project\giris-cikis-sistemi\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.AssemblyInfo.cs
+E:\projeler\rfid_css_project\giris-cikis-sistemi\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.csproj.CoreCompileInputs.cache
+E:\projeler\rfid_css_project\giris-cikis-sistemi\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.sourcelink.json
+E:\projeler\rfid_css_project\giris-cikis-sistemi\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.dll
+E:\projeler\rfid_css_project\giris-cikis-sistemi\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\refint\otomasyon.data.dll
+E:\projeler\rfid_css_project\giris-cikis-sistemi\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\otomasyon.data.pdb
+E:\projeler\rfid_css_project\giris-cikis-sistemi\software\otomasyon.Konsol\otomasyon.data\obj\Debug\net8.0\ref\otomasyon.data.dll

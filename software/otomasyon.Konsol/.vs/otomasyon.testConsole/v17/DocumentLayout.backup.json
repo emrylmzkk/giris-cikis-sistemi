@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\",
+  "WorkspaceRootPath": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\frmreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|e:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.konsol\\ui\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|e:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.konsol\\ui\\frmreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\otomasyon.data\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|solutionrelative:otomasyon.data\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\ui\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C87A464-3AEF-4568-93C2-383B6C086C5E}|otomasyon.Business\\otomasyon.Business.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\otomasyon.business\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C87A464-3AEF-4568-93C2-383B6C086C5E}|otomasyon.Business\\otomasyon.Business.csproj|solutionrelative:otomasyon.business\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C87A464-3AEF-4568-93C2-383B6C086C5E}|otomasyon.Business\\otomasyon.Business.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\otomasyon.business\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C87A464-3AEF-4568-93C2-383B6C086C5E}|otomasyon.Business\\otomasyon.Business.csproj|solutionrelative:otomasyon.business\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\otomasyon.data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|e:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.konsol\\otomasyon.data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|solutionrelative:otomasyon.data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|f:\\projeler\\rf\u0131d_project\\software\\otomasyon.konsol\\otomasyon.data\\logrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|e:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.konsol\\otomasyon.data\\logrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|solutionrelative:otomasyon.data\\logrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|e:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.konsol\\ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C87A464-3AEF-4568-93C2-383B6C086C5E}|otomasyon.Business\\otomasyon.Business.csproj|e:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.konsol\\otomasyon.business\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C87A464-3AEF-4568-93C2-383B6C086C5E}|otomasyon.Business\\otomasyon.Business.csproj|solutionrelative:otomasyon.business\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|e:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.konsol\\ui\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B32948-956C-4C0B-A434-C17ECDF8DB59}|UI\\UI.csproj|solutionrelative:ui\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|e:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.konsol\\otomasyon.data\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E07A94C-4583-45D1-9F45-ACC103A285FA}|otomasyon.data\\otomasyon.data.csproj|solutionrelative:otomasyon.data\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C87A464-3AEF-4568-93C2-383B6C086C5E}|otomasyon.Business\\otomasyon.Business.csproj|e:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.konsol\\otomasyon.business\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C87A464-3AEF-4568-93C2-383B6C086C5E}|otomasyon.Business\\otomasyon.Business.csproj|solutionrelative:otomasyon.business\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,148 +54,139 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "frmReport.cs [Tasar\u0131m]",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmReport.cs",
+              "DocumentMoniker": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\UI\\frmReport.cs",
               "RelativeDocumentMoniker": "UI\\frmReport.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmReport.cs [Tasar\u0131m]",
+              "ToolTip": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\UI\\frmReport.cs [Tasar\u0131m]",
               "RelativeToolTip": "UI\\frmReport.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T08:55:45.259Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-07-24T08:55:45.259Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "frmReport.Designer.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmReport.Designer.cs",
+              "DocumentMoniker": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\UI\\frmReport.Designer.cs",
               "RelativeDocumentMoniker": "UI\\frmReport.Designer.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmReport.Designer.cs",
+              "ToolTip": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\UI\\frmReport.Designer.cs",
               "RelativeToolTip": "UI\\frmReport.Designer.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAnwGoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T08:55:35.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T08:55:35.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "frmMain.Designer.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmMain.Designer.cs",
+              "DocumentMoniker": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\UI\\frmMain.Designer.cs",
               "RelativeDocumentMoniker": "UI\\frmMain.Designer.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmMain.Designer.cs",
+              "ToolTip": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\UI\\frmMain.Designer.cs",
               "RelativeToolTip": "UI\\frmMain.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T08:55:30.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\Student.cs",
+              "DocumentMoniker": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\otomasyon.data\\Student.cs",
               "RelativeDocumentMoniker": "otomasyon.data\\Student.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\Student.cs",
+              "ToolTip": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\otomasyon.data\\Student.cs",
               "RelativeToolTip": "otomasyon.data\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T21:12:37.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T21:12:37.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "LogRepo.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\LogRepo.cs",
+              "DocumentMoniker": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\otomasyon.data\\LogRepo.cs",
               "RelativeDocumentMoniker": "otomasyon.data\\LogRepo.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\LogRepo.cs",
+              "ToolTip": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\otomasyon.data\\LogRepo.cs",
               "RelativeToolTip": "otomasyon.data\\LogRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T21:08:30.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T21:08:30.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "frmMain.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmMain.cs",
+              "DocumentMoniker": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\UI\\frmMain.cs",
               "RelativeDocumentMoniker": "UI\\frmMain.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmMain.cs",
+              "ToolTip": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\UI\\frmMain.cs",
               "RelativeToolTip": "UI\\frmMain.cs",
-              "ViewState": "AgIAADMBAAAAAAAAAAAYwE8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T20:43:25.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "frmMain.cs [Tasar\u0131m]",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmMain.cs",
+              "DocumentMoniker": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\UI\\frmMain.cs",
               "RelativeDocumentMoniker": "UI\\frmMain.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmMain.cs [Tasar\u0131m]",
+              "ToolTip": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\UI\\frmMain.cs [Tasar\u0131m]",
               "RelativeToolTip": "UI\\frmMain.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T20:40:59.628Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-07-23T20:40:59.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LogService.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.Business\\LogService.cs",
+              "DocumentMoniker": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\otomasyon.Business\\LogService.cs",
               "RelativeDocumentMoniker": "otomasyon.Business\\LogService.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.Business\\LogService.cs",
+              "ToolTip": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\otomasyon.Business\\LogService.cs",
               "RelativeToolTip": "otomasyon.Business\\LogService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T08:10:36.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T08:10:36.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "frmReport.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmReport.cs",
+              "DocumentMoniker": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\UI\\frmReport.cs",
               "RelativeDocumentMoniker": "UI\\frmReport.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\UI\\frmReport.cs",
+              "ToolTip": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\UI\\frmReport.cs",
               "RelativeToolTip": "UI\\frmReport.cs",
               "ViewState": "AgIAAI4AAAAAAAAAAAAewJ0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T19:33:26.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T19:33:26.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "StudentRepo.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\StudentRepo.cs",
+              "DocumentMoniker": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\otomasyon.data\\StudentRepo.cs",
               "RelativeDocumentMoniker": "otomasyon.data\\StudentRepo.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.data\\StudentRepo.cs",
+              "ToolTip": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\otomasyon.data\\StudentRepo.cs",
               "RelativeToolTip": "otomasyon.data\\StudentRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T21:15:23.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T21:15:23.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "StudentService.cs",
-              "DocumentMoniker": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.Business\\StudentService.cs",
+              "DocumentMoniker": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\otomasyon.Business\\StudentService.cs",
               "RelativeDocumentMoniker": "otomasyon.Business\\StudentService.cs",
-              "ToolTip": "F:\\projeler\\rf\u0131d_project\\software\\otomasyon.Konsol\\otomasyon.Business\\StudentService.cs",
+              "ToolTip": "E:\\projeler\\rfid_css_project\\giris-cikis-sistemi\\software\\otomasyon.Konsol\\otomasyon.Business\\StudentService.cs",
               "RelativeToolTip": "otomasyon.Business\\StudentService.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowFQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T21:28:32.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T21:28:32.169Z"
             }
           ]
         }

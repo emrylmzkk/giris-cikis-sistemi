@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("otomasyon.Konsol")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9842ffadef1fc5292c9b7a9e9d7fef677b0280db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ee1e4d7fdc174a85d0b5013cf36b17154393539")]
 [assembly: System.Reflection.AssemblyProductAttribute("otomasyon.Konsol")]
 [assembly: System.Reflection.AssemblyTitleAttribute("otomasyon.Konsol")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

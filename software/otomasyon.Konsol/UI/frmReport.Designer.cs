@@ -108,7 +108,6 @@
             lvSearchNameResult.UseCompatibleStateImageBehavior = false;
             lvSearchNameResult.View = View.Details;
             lvSearchNameResult.ItemSelectionChanged += lvSearchNameResult_ItemSelectionChanged;
-            
             // 
             // reulstName
             // 
@@ -160,7 +159,7 @@
             btnDeleteStudent.Enabled = false;
             btnDeleteStudent.HighEmphasis = true;
             btnDeleteStudent.Icon = null;
-            btnDeleteStudent.Location = new Point(82, 201);
+            btnDeleteStudent.Location = new Point(101, 201);
             btnDeleteStudent.Margin = new Padding(4, 6, 4, 6);
             btnDeleteStudent.MouseState = MaterialSkin.MouseState.HOVER;
             btnDeleteStudent.Name = "btnDeleteStudent";
